@@ -43,4 +43,4 @@ This is a Node.js application that provides API endpoints for managing user info
 
 ## Documentation
 
-- View the [Postman Documentation](Assignment User Node.postman_collection.json) for detailed API documentation.
+- View the [Postman Documentation](https://github.com/MSaqibShah/assignment-user-nodejs/blob/main/Assignment%20User%20Node.postman_collection.json) for detailed API documentation.
